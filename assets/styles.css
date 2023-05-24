@@ -76,8 +76,13 @@ a {
 .red-text {
   color: #b5460f;
 }
+video {
+  width: 600px;
+  display: block;
+  margin: 2rem auto;
+}
 
 footer {
   width: 55%;
-  margin: 0 auto;
+  margin: 0 auto 1rem auto;
 }
